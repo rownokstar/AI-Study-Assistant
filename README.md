@@ -11,7 +11,7 @@ An intelligent chatbot designed to help users study more effectively by answerin
 
 ## 🚀 Live Demo
 
-https://colab.research.google.com/drive/1haC0qZAdTGp03gzclUqAMp6_c0yeIzvI?authuser=1#scrollTo=2pSLb59fS7cb
+https://colab.research.google.com/drive/1haC0qZAdTGp03gzclUqAMp6_c0yeIzvI?usp=sharing
 
 ## 🛠️ Technologies Used
 
