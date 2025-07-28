@@ -111,6 +111,12 @@ def main():
         if st.session_state.summary:
             with st.expander("View Document Summary"):
                 st.write(st.session_state.summary)
+ # --- Footer ---
+    st.markdown("---")
+    st.markdown(
+        '<h6>Programmed & Developed by <a href="https://www.linkedin.com/in/dm-shahriar-hossain/" target="_blank">D.M. Shahriar Hossain</a></h6>',
+        unsafe_allow_html=True
+    )
 
 if __name__ == '__main__':
     main()
